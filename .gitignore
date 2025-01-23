@@ -3,3 +3,4 @@ data.json
 *.tsv
 *.kml
 __pycache__
+.vscode
